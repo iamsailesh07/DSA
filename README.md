@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Sailesh63/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sailesh63/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sailesh63/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sailesh63/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sailesh63/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sailesh63/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sailesh63/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sailesh63/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Sailesh63/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sailesh63/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sailesh63/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sailesh63/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Simulation
 |  |
 | ------- |
